@@ -1,0 +1,1 @@
+[null,{"name":"welcome","temp":"member","event-type":"6","actions":[{"channel":"5","varName":"member","message":"**\"Witaj** ${tempVars(\"member\")} **na serwerze Discord AcriveFun\"**\n***Prosimy o zapoznanie się z regulaminem***","storage":"0","varName2":"","name":"Send Message"}]}]
